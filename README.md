@@ -12,10 +12,10 @@ This project is to make the Horiseon sematically compliant while bring  aestetic
 ![Screenshot of Refactoring Horiseon Project](/assets/images/screenshot-refactoringHoriseon.PNG?raw=true "refactoringHoriseon")
 
 
-## Visit our work
-URL of deployed application.
+## Our work
+[Visit our site](https://kevins-trove.github.io/HoriseonRenovation/)
 
-URL of GitHub Repository
+[See our repository](https://github.com/Kevins-Trove/HoriseonRenovation)
 
 
 - - -
