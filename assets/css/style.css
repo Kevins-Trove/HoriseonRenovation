@@ -1,3 +1,8 @@
+/* update by KevinTrove 2024 02 04
+    - combined element discriptors into blocks
+    - cleaned up and elminated redunate tags
+*/
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -6,10 +11,12 @@
     color: #ffffff;
 }
 
+
 body {
     background-color: #d9dcd6;
 }
 
+/* Header */
 header {
     padding: 20px;
     background-color: #2a607c;
@@ -73,6 +80,7 @@ p {
     margin-left: 20px;
 }
 
+/* Benifits are right aligned column */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -98,6 +106,7 @@ p {
     max-width: 150px;
 }
 
+/* SEO categories block are left aligned column that match height of benifits block */
 .search-engine-block {
     margin-bottom: 20px;
     padding: 50px;
@@ -115,6 +124,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer */
 footer {
     padding: 30px;
     clear: both;
